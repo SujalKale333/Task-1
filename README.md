@@ -1,3 +1,5 @@
+Task-1 Student Management Database and write queries to analyze student performance.
+
 CREATE DATABASE StudentDB;
 USE StudentDB;
 
